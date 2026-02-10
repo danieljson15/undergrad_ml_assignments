@@ -27,5 +27,5 @@ def download_data(force=False):
 
 
 if __name__ == "__main__":
-    download_data()
+    download_data(force=True)
 
